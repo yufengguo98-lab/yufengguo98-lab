@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Yufeng Guo 👋
 
-<!--
-**yufengguo98-lab/yufengguo98-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent developer building **AnyaOS**, a Windows desktop AI assistant focused on productivity, extensibility, and personalized desktop interaction.
 
-Here are some ideas to get you started:
+## 🚀 AnyaOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AnyaOS combines AI assistance with a customizable desktop experience.
+
+- 🤖 AI conversation and memory
+- 🧩 Plugin / MCP ecosystem
+- 🛠️ Productivity and advanced tools
+- 🎭 Customizable 3D desktop companions
+- 🖥️ Built for Windows
+
+🌐 **Website:** https://anyaos.app
+
+## 🛠 Tech Stack
+
+- Python
+- PySide6 / Qt
+- FastAPI
+- JavaScript / Web technologies
+- SQLite
+
+## 📌 Current Focus
+
+I'm currently focused on developing, testing, and preparing AnyaOS for public release.
+
+---
+
+Thanks for visiting my profile.
